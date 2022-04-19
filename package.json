@@ -15,7 +15,7 @@
     "template",
     "prettier"
   ],
-  "private": true,
+  "private": false,
   "files": [
     "template",
     "template.json"
